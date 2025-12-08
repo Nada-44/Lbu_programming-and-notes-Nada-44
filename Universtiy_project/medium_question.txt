@@ -1,0 +1,39 @@
+question: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?
+hint: It bounces back to you.
+answer: echo
+
+question: The more you take, the more you leave behind. What are they?
+hint: You create them while walking.
+answer: Footsteps
+
+question: What has many keys but can’t open a single lock?
+hint: You play it.
+answer: piano
+
+question: I have branches, but no fruit, trunk, or leaves. What am I?
+hint: People put money here.
+answer: bank
+
+question: What gets bigger the more you take away?
+hint: Think of digging.
+answer: hole
+
+question: What can travel around the world while staying in one corner?
+hint: You stick it on something.
+answer: stamp
+
+question: What has one eye but can’t see?
+hint: Used for sewing.
+answer: needle
+
+question: I’m light as a feather, yet the strongest person can’t hold me for long. What am I?
+hint: You need it to live.
+answer: Your breath
+
+question: You see me once in a minute, twice in a moment, but never in a thousand years.
+hint: It’s a letter.
+answer: M
+
+question: What has cities, but no houses; forests, but no trees; and water, but no fish?
+hint: You can fold it.
+answer: map
